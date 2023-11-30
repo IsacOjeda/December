@@ -21,6 +21,8 @@ const insertionSort = (arr) => {
 
 console.log(insertionSort([198, 34, 71, 98, 64, 17, 82, 638, 167, 2387]));
 
+
+
 function insertionSortShift(arr) {
     // code
     return arr;
